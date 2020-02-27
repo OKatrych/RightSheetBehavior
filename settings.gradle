@@ -1,0 +1,3 @@
+rootProject.name='Right Sheet App'
+include ':app'
+include ':rightsheet'

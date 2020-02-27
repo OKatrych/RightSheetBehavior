@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Right Sheet App</string>
+    <string name="open_bottom_sheet">Open Bottom Sheet</string>
+    <string name="open_bottom_sheet_dialog">Open Bottom Sheet Dialog</string>
+    <string name="open_right_sheet">Open Right Sheet</string>
+    <string name="open_right_sheet_dialog">Open Right Sheet Dialog</string>
+    <string name="bottom_sheet_content">Bottom sheet content</string>
+    <string name="right_sheet_content">Right sheet content</string>
+</resources>
