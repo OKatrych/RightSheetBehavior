@@ -1,4 +1,4 @@
-## RightSheetBehavior - a "right" version of BottomSheetBeavior
+## RightSheetBehavior - a "right" version of the BottomSheetBehavior
 
 [![](https://jitpack.io/v/OKatrych/RightSheetBehavior.svg)](https://jitpack.io/#OKatrych/RightSheetBehavior)
 
